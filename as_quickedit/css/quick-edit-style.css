@@ -1,0 +1,41 @@
+.as-quick-container {
+    width: 100%;
+    overflow:  hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.as-quick-container .as-quick-quform-group {
+    margin-bottom: 15px;
+}
+
+.as-quick-container label {
+    font-size: 15px;
+    display:  block;
+    margin-bottom: 5px;
+}
+
+.as_add_meta_box_container {
+    width: 500px;
+}
+
+.as_add_meta_box_container li {
+}
+
+.as_add_meta_box_container li input.widefat {
+    width: 425px;
+    display: inline;
+}
+
+.as_add_meta_box_container li span {
+    display:  inline;
+}
+
+span#as_add_meta_box_add_new {
+    float: right;
+}
+
+.as_add_meta_box_container .as_label {
+    display: block;
+    padding: 0 0 6px 0;
+}
